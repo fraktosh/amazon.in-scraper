@@ -3,6 +3,6 @@ scrapes the best sellers from respective amazon categories
 
 
 
-
-
-run the new.py file.
+change to this directory 
+and 
+run the new.py file with the command 'python3 new.py'
